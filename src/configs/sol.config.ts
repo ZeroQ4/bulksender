@@ -46,7 +46,7 @@ const conf: Record<Net, Conf> = {
     splataAddress: 'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL',
     bulksenderAddress: '8WB9yeJ946594RHtxdNoKbwC2y13yCwJCtSY1mAeLWu1',
     fee: 1000000,
-    taxman: '9doo2HZQEmh2NgfT3Yx12M89aoBheycYqH1eaR5gKb3e',
+    taxman: 'SwZ1ToTvj6wVACZjV7VKwV5yjsKjrME11J7B2VjKKLK',
   },
 }
 
